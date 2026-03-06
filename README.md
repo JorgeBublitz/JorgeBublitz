@@ -40,10 +40,6 @@
 * ### **[TrackFlix API](https://github.com/JorgeBublitz/TrackFlix_API)**
   * *Sistema completo de gerenciamento de watchlists com integração à API do TMDB, utilizando Node.js e PostgreSQL.*
 
-## 🎮 Além do Código
-
-Nas horas vagas, estou sempre em busca de novos desafios técnicos ou relaxando em algum mundo virtual (Minecraft, Fortnite ou Sekiro).
-
 ## 👋 Vamos nos conectar?
 
 <div align="left">
