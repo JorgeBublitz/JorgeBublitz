@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:026e00,100:007acc&height=200&section=header&text=Jorge%20Bublitz&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Header Banner">
 </div>
 
-## 👨‍💻 Sobre Mim
+## 👋 Sobre Mim
 
 <table border="0">
   <tr>
@@ -35,12 +35,16 @@
 * 🔐 **Autenticação JWT** & Segurança de APIs.
 * 🏗️ **Arquitetura de Software** e APIs REST.
 
-## 📁 Destaques do GitHub
+## 📌 Destaques do GitHub
 
 * ### **[TrackFlix API](https://github.com/JorgeBublitz/TrackFlix_API)**
   * *Sistema completo de gerenciamento de watchlists com integração à API do TMDB, utilizando Node.js e PostgreSQL.*
+* ### **[ApiPetora](https://github.com/JorgeBublitz/ApiPetora)**
+  * *Sistema de gestão para petshops: clientes, animais, vendedores e registro de vendas e serviços.*
+* ### **[TCC-Matrify](https://github.com/JorgeBublitz/TCC-Matrify)**
+  * *Sistema de gestão de projetos com roadmaps, tarefas e equipes (React + Fastify + motor Python).*
 
-## 👋 Vamos nos conectar?
+## 🤝 Vamos nos conectar?
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jorgebublitz6/" target="_blank">
