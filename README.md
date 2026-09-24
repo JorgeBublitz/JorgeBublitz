@@ -8,9 +8,9 @@
   <tr>
     <td width="60%" valign="top">
       <p align="left">
-        Olá! Sou o <strong>Jorge Bublitz</strong>, desenvolvedor focado no ecossistema <strong>Node.js e TypeScript</strong>. Minha especialidade é construir APIs RESTful robustas e integrar serviços escaláveis que resolvem problemas reais.
+        Olá! Sou o <strong>Jorge Bublitz</strong>, estudante de Ciência da Computação no UNIPÊ (João Pessoa, PB) e desenvolvedor backend com <strong>Node.js, TypeScript e Python</strong>.
         <br><br>
-        Atualmente, curso Ciência da Computação e possuo experiência sólida utilizando <strong>Prisma ORM e PostgreSQL</strong>. Sou entusiasta de arquiteturas limpas, segurança com JWT e metodologias ágeis. Estou sempre em busca de otimizar processos e elevar a qualidade do código.
+        Construo APIs REST com <strong>Prisma e PostgreSQL</strong>, autenticação JWT e testes automatizados, e cuido do deploy com <strong>Docker e GitHub Actions</strong>. No TCC, desenvolvo em equipe o Matrify, um sistema de planejamento de roadmaps com backend em Fastify e um motor de alocação em Python/FastAPI.
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -29,20 +29,36 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+</p>
+
+### **Qualidade & Deploy:**
+<p align="left">
+  <img src="https://img.shields.io/badge/vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ### **Especialidades:**
-* 🔐 **Autenticação JWT** & Segurança de APIs.
-* 🏗️ **Arquitetura de Software** e APIs REST.
+* 🔐 **Autenticação JWT** (refresh token com rotação) e controle de acesso por perfil.
+* 🏗️ **APIs REST** em camadas, com validação (Zod), tratamento de erros e documentação Swagger.
+* ✅ **Testes de integração** e CI com GitHub Actions.
+* 🔎 **Busca e NLP em Python**: TF-IDF, BM25, embeddings e busca híbrida.
 
 ## 📌 Destaques do GitHub
 
+* ### **[Matrify](https://tcc-matrify.vercel.app)** · TCC em equipe (código privado)
+  * *Planejamento de roadmaps que distribui tarefas conforme a capacidade de cada equipe. Backend em Fastify/TypeScript, motor de alocação em Python/FastAPI, PostgreSQL, Docker e CI.*
 * ### **[TrackFlix API](https://github.com/JorgeBublitz/TrackFlix_API)**
-  * *Sistema completo de gerenciamento de watchlists com integração à API do TMDB, utilizando Node.js e PostgreSQL.*
+  * *Backend de app de filmes e séries: favoritos, watchlist, histórico, comentários e amigos, com JWT e refresh token rotativo, 31 endpoints e testes de integração.*
 * ### **[ApiPetora](https://github.com/JorgeBublitz/ApiPetora)**
-  * *Sistema de gestão para petshops: clientes, animais, vendedores e registro de vendas e serviços.*
-* ### **[TCC-Matrify](https://github.com/JorgeBublitz/TCC-Matrify)**
-  * *Sistema de gestão de projetos com roadmaps, tarefas e equipes (React + Fastify + motor Python).*
+  * *Gestão de petshop com clínica: tutores, pets, consultas e agendamentos, com controle de acesso por perfil (gerente e veterinário).*
+* ### **[Busca Inteligente Labs](https://github.com/JorgeBublitz/busca-inteligente-labs)**
+  * *Motores de busca em Python: TF-IDF do zero, busca híbrida BM25 + embeddings e triagem semântica de textos.*
 
 ## 🤝 Vamos nos conectar?
 
