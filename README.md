@@ -58,17 +58,63 @@
 
 ## 📌 Destaques do GitHub
 
-### **[Matrify](https://tcc-matrify.vercel.app)** · TCC em equipe (código privado)
-*Planejamento de roadmaps que distribui tarefas conforme a capacidade de cada equipe. Backend em Fastify/TypeScript, motor de alocação em Python/FastAPI, PostgreSQL, Docker e CI.*
+<div align="center">
+  <a href="https://tcc-matrify.vercel.app">
+    <img src="https://img.shields.io/badge/%E2%AD%90_Matrify-TCC_em_equipe_(c%C3%B3digo_privado)-026e00?style=for-the-badge" alt="Matrify">
+  </a>
+  <br>
+  <sub>Planejamento de roadmaps que distribui tarefas conforme a capacidade de cada equipe · Fastify/TypeScript + motor de alocação em Python/FastAPI + PostgreSQL, Docker e CI</sub>
+</div>
+<br>
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **[Sustema](https://github.com/JorgeBublitz/Sustema_NodeJs)** | API de gestão hospitalar: pacientes, agendamentos com equipes de vários profissionais e RBAC com 4 perfis (admin, recepção, médico, enfermagem). | Node.js · TypeScript · Prisma · PostgreSQL |
-| **[TrackFlix API](https://github.com/JorgeBublitz/TrackFlix_API)** | Backend de app de filmes e séries: favoritos, watchlist, histórico, comentários e amigos. JWT com refresh token rotativo, 31 endpoints e testes de integração. | Node.js · TypeScript · Prisma · PostgreSQL |
-| **[ApiPetora](https://github.com/JorgeBublitz/ApiPetora)** | Gestão de petshop com clínica veterinária: tutores, pets, consultas e agendamentos, com controle de acesso por perfil (gerente e veterinário). | Node.js · TypeScript · Prisma · PostgreSQL |
-| **[Auth API](https://github.com/JorgeBublitz/ApiLogin-Node.Js)** | API de autenticação reutilizável: cadastro, login, refresh token com rotação e revogação — base do fluxo de auth usado nos outros projetos. | Node.js · TypeScript · Prisma · PostgreSQL |
-| **[AnimeWiki](https://github.com/JorgeBublitz/AppAnimeWiki)** | Catálogo de animes e mangás com personagens e dubladores, consumindo a API pública do MyAnimeList (Jikan). | Flutter · Dart |
-| **[Busca Inteligente Labs](https://github.com/JorgeBublitz/busca-inteligente-labs)** | Motores de busca em Python: TF-IDF do zero, busca híbrida BM25 + embeddings e triagem semântica de textos. | Python · scikit-learn · Streamlit |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/JorgeBublitz/Sustema_NodeJs">🏥 Sustema</a></h4>
+      <p>API de gestão hospitalar: pacientes, agendamentos com equipes de vários profissionais e RBAC com 4 perfis (admin, recepção, médico, enfermagem).</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="20">
+      <br>
+      <a href="https://github.com/JorgeBublitz/Sustema_NodeJs/actions/workflows/ci.yml"><img src="https://github.com/JorgeBublitz/Sustema_NodeJs/actions/workflows/ci.yml/badge.svg" height="18"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/JorgeBublitz/TrackFlix_API">🎬 TrackFlix API</a></h4>
+      <p>Backend de app de filmes e séries: favoritos, watchlist, histórico, comentários e amigos. JWT com refresh token rotativo e 31 endpoints.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="20">
+      <br>
+      <a href="https://github.com/JorgeBublitz/TrackFlix_API/actions/workflows/ci.yml"><img src="https://github.com/JorgeBublitz/TrackFlix_API/actions/workflows/ci.yml/badge.svg" height="18"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/JorgeBublitz/ApiPetora">🐾 ApiPetora</a></h4>
+      <p>Gestão de petshop com clínica veterinária: tutores, pets, consultas e agendamentos, com controle de acesso por perfil (gerente e veterinário).</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="20">
+      <br>
+      <a href="https://github.com/JorgeBublitz/ApiPetora/actions/workflows/ci.yml"><img src="https://github.com/JorgeBublitz/ApiPetora/actions/workflows/ci.yml/badge.svg" height="18"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/JorgeBublitz/ApiLogin-Node.Js">🔐 Auth API</a></h4>
+      <p>API de autenticação reutilizável: cadastro, login, refresh token com rotação e revogação — base do fluxo de auth usado nos outros projetos.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="20">
+      <br>
+      <a href="https://github.com/JorgeBublitz/ApiLogin-Node.Js/actions/workflows/ci.yml"><img src="https://github.com/JorgeBublitz/ApiLogin-Node.Js/actions/workflows/ci.yml/badge.svg" height="18"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/JorgeBublitz/AppAnimeWiki">📱 AnimeWiki</a></h4>
+      <p>Catálogo de animes e mangás com personagens e dubladores, consumindo a API pública do MyAnimeList (Jikan).</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height="20">
+      <br>
+      <a href="https://github.com/JorgeBublitz/AppAnimeWiki/actions/workflows/ci.yml"><img src="https://github.com/JorgeBublitz/AppAnimeWiki/actions/workflows/ci.yml/badge.svg" height="18"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/JorgeBublitz/busca-inteligente-labs">🔎 Busca Inteligente Labs</a></h4>
+      <p>Motores de busca em Python: TF-IDF do zero, busca híbrida BM25 + embeddings e triagem semântica de textos.</p>
+      <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" height="20"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="20">
+    </td>
+  </tr>
+</table>
 
 ## 🤝 Vamos nos conectar?
 
