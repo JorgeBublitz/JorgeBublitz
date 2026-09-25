@@ -54,7 +54,6 @@
 * 🔐 **Autenticação JWT** (refresh token com rotação, revogação e rate limiting) e controle de acesso por perfil (RBAC).
 * 🏗️ **APIs REST** em camadas, com validação (Zod), tratamento de erros centralizado e documentação Swagger/OpenAPI.
 * ✅ **Testes de integração** e CI com GitHub Actions.
-* 🔎 **Busca e NLP em Python**: TF-IDF, BM25, embeddings e busca híbrida.
 
 ## 📌 Destaques do GitHub
 
